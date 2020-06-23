@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/koolkids/static/css/main.1d61bb7f.chunk.css",
+    "main.js": "/koolkids/static/js/main.1c582c0d.chunk.js",
+    "main.js.map": "/koolkids/static/js/main.1c582c0d.chunk.js.map",
+    "runtime-main.js": "/koolkids/static/js/runtime-main.bf5a58db.js",
+    "runtime-main.js.map": "/koolkids/static/js/runtime-main.bf5a58db.js.map",
+    "static/js/2.d95f0a06.chunk.js": "/koolkids/static/js/2.d95f0a06.chunk.js",
+    "static/js/2.d95f0a06.chunk.js.map": "/koolkids/static/js/2.d95f0a06.chunk.js.map",
+    "index.html": "/koolkids/index.html",
+    "precache-manifest.fca5a33b52b3103b1f562226403bd303.js": "/koolkids/precache-manifest.fca5a33b52b3103b1f562226403bd303.js",
+    "service-worker.js": "/koolkids/service-worker.js",
+    "static/css/main.1d61bb7f.chunk.css.map": "/koolkids/static/css/main.1d61bb7f.chunk.css.map",
+    "static/js/2.d95f0a06.chunk.js.LICENSE.txt": "/koolkids/static/js/2.d95f0a06.chunk.js.LICENSE.txt",
+    "static/media/caartoon.gif": "/koolkids/static/media/caartoon.8a94d1fd.gif",
+    "static/media/food.jpg": "/koolkids/static/media/food.93ab757e.jpg",
+    "static/media/homekoolkids.jpg": "/koolkids/static/media/homekoolkids.05916ed1.jpg",
+    "static/media/homekoolkids2.jpg": "/koolkids/static/media/homekoolkids2.2e5203c4.jpg",
+    "static/media/homekoolkids4.jpg": "/koolkids/static/media/homekoolkids4.db574f25.jpg",
+    "static/media/homwkoolkids3.jpg": "/koolkids/static/media/homwkoolkids3.fa2334a7.jpg",
+    "static/media/instagram.jpg": "/koolkids/static/media/instagram.0768c020.jpg",
+    "static/media/mission.jpg": "/koolkids/static/media/mission.b3f2ef00.jpg",
+    "static/media/motivation.jpg": "/koolkids/static/media/motivation.d5da4df4.jpg",
+    "static/media/origin.jpg": "/koolkids/static/media/origin.f28baa3d.jpg",
+    "static/media/perks.jpg": "/koolkids/static/media/perks.31b4dad3.jpg",
+    "static/media/rupee.jpg": "/koolkids/static/media/rupee.32b822c1.jpg",
+    "static/media/twitter.png": "/koolkids/static/media/twitter.e24c83b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5a58db.js",
+    "static/js/2.d95f0a06.chunk.js",
+    "static/css/main.1d61bb7f.chunk.css",
+    "static/js/main.1c582c0d.chunk.js"
+  ]
+}

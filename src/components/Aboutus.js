@@ -51,7 +51,7 @@ class Aboutus extends React.Component {
         dots[slideIndex-1].className += " active";
         members[slideIndex-1].style.display = "block";  
       }
-    }, 10000);
+    }, 3000);
   }
 
   render() {

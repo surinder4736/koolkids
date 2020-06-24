@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import React from 'react';
-import Banner from './Home/Banner';
+import Banner from './perksbanner';
 import { connect } from 'react-redux';
 import Footer from '../components/Footer';
 import mission from '../images/rupee.jpg';

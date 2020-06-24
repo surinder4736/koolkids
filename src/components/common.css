@@ -532,24 +532,28 @@ pre code{
         max-width:576px
     }
     .footer .nav{padding-left: 20%;}
+    .home-page .slideshow-container img{max-height: 425px;}
 }
 @media(min-width:768px){
     .container{
         max-width:720px
     }
     .footer .nav{padding-left: 28%;}
+    .home-page .slideshow-container img{max-height: 425px;}
 }
 @media(min-width:992px){
     .container{
         max-width:940px
     }
     .footer .nav{padding-left: 37%;}
+    .home-page .slideshow-container img{max-height: 425px;}
 }
 @media(min-width:1200px){
     .container{
         max-width:1140px
     }
     .footer .nav{padding-left: 37%;}
+    .home-page .slideshow-container img{max-height: 425px;}
 }
 .container-fluid{
     margin-left:auto;
@@ -5383,9 +5387,9 @@ footer .attribution{
     padding-bottom:.5rem
 }
   .social-links img{width: 70px; height: 70px;}
-  .social-links{padding: 40px;}
+  .social-links{padding: 30px;}
   .sitemap{padding: 40px; text-align: center;}
-  .contact-detail{padding: 40px; text-align: center;}
+  .contact-detail{padding: 20px; text-align: center;}
 
 .perks-page .banner{
     background:#fff;
@@ -5460,3 +5464,17 @@ footer .attribution{
 
   .perks-page .divsection{padding: 1rem; border: 1px solid #ccc;}
   .perks-page h1{color:#269abc}
+
+ .social-links a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background: #5cb85c;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 15px;
+    font-size: 20px;
+}
+.about-page .slideshow-container img{width: 200px; height: 200px;}

@@ -7,10 +7,10 @@ import {
   HOME_PAGE_UNLOADED,
   APPLY_TAG_FILTER
 } from '../../constants/actionTypes';
-import koolkids from '../../images/homekoolkids.jpg';
-import koolkids2 from '../../images/homekoolkids2.jpg';
-import koolkids3 from '../../images/homwkoolkids3.jpg';
-import koolkids4 from '../../images/homekoolkids4.jpg';
+import koolkids from '../../images/banner1.png';
+import koolkids2 from '../../images/banner2.png';
+import koolkids3 from '../../images/banner3.png';
+import koolkids4 from '../../images/banner4.png';
 // import koolkids5 from '../../images/homekoolkids5.jpg';
 
 import facebook from '../../images/facebook.png';
@@ -77,6 +77,13 @@ class Home extends React.Component {
   render() {
     return (
       <div className="home-page">
+        <div className="container page">
+        <div className="row">
+          <div className="col-md-12 text-center" style={{padding:'20px', color:'#269abc', textAlign:'center'}}>
+           <h3>Kool Kids Klub to the rescue of humanity! Rebel against Babir Koyal – the ultimate evil!!</h3>
+          </div>
+        </div>
+        </div>
         <div className="slideshow-container">
           <div className="mySlides fade">
             <img src={koolkids} style={{width:'100%'}} />
@@ -111,29 +118,32 @@ class Home extends React.Component {
           <div className="col-xs-4" style={{margin:'auto'}}>
             <ul className="nav navbar-nav ">
               <li className="nav-item">
-                <img src={facebook} alt="facebook" />
+                {/* <img src={facebook} alt="facebook" /> */}
+                <a href="#"><i className="fab fa-facebook-f"></i></a>
               </li>
               <li className="nav-item">
-                <img src={twitter} alt="twitter" />
+                {/* <img src={twitter} alt="twitter" /> */}
+                <a href="#"><i className="fab fa-instagram"></i></a>
               </li>
               <li className="nav-item">
-                <img src={instagram} alt="instagram" />
+                {/* <img src={instagram} alt="instagram" /> */}
+                <a href="#"><i className="fab fa-twitter"></i></a>
               </li>
             </ul>
           </div>
         </div>
-        <div className="sitemap">
+        {/* <div className="sitemap">
           <h1>SITE MAP</h1>
         </div>
         <div className="sitemap-content">
           <p className="text-xs-center">
             he kool kids klub is a very nice klub where all the pure people go.like the rich people go to the camps and the poor people go to the ghettos. The poor people who become rich go to the rap industry. and the pure people go to the kool kids klub. Most of the time the people in the klub make nice campfires out of cute crosses and they wear this adorable white robe. The most pure person wears red because that shows he is the most important.Lots of people should join the klub its very nice. We are also known as the kkk .
           </p>
-        </div>
+        </div> */}
         <div className="contact-detail">
           <h1>Contact-Us</h1>
-          <p>Email Us: <u>teamsupport@test.com</u></p>
-          <p>Mobile : 00999887766</p>
+          <p>Email Us: <u>koolkidsklub@gmail.com</u></p>
+          <p>Mobile : 9999999999</p>
         </div>
         </div>  
         
